@@ -3,11 +3,10 @@
 
 ## Submission Instructions
   * Work in a fork of this repository
-  * Work in a branch on your fork
-  * Write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-duncan`
+  * Work in a branch on your fork called `lab-30`
   * Submit a pull request to this repository
   * Submit a link to your pull request on canvas
-  * Submit a question, observation, and how long you spent on canvas 
+  * Submit an observation and how long you spent on canvas 
   
 ## Learning Objectives  
 * Students will learn about composition vs inheritance
