@@ -2,7 +2,7 @@
 ===
 
 ## Submission Instructions
-  * Work in a fork of this repository
+  * Continue working off Lab 28
   * Work in a branch on your fork called `lab-30`
   * Submit a pull request to this repository
   * Submit a link to your pull request on canvas
