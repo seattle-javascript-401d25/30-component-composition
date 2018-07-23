@@ -47,6 +47,12 @@ App
   * The user enters a title and content into the input fields and submits the form to create a new note.
   * A new note should be displayed on the page in an unordered list.
  * Write any combination of explicit/implicit assertion statements in order to test your app. You will get full credit for testing if a TA can run your tests in Cypress and see the required scenario take place. 
+ 
+#### Stretch Goals
+* Continue using Cypress to test out your `Edit` and `Delete` functionality of your note items
+* Write tests for multiple notes being created and displayed on the page
+* Read the [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress.html#) and write more test assertions beyond the methods demonstrated in lecture code
+* Write Enzyme tests for your `NoteUpdateForm` component
 
 #### Documentation  
 Write a description of the project in your README.md
