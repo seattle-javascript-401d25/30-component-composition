@@ -8,6 +8,7 @@
   * Submit a link to your pull request on canvas
   * Submit an observation and how long you spent on canvas 
   * No Travis CI setup required for this lab
+  * **Copying of lecture code's SCSS styles will be an automatic 0**
   
 ## Learning Objectives  
 * Students will learn about composition vs inheritance
@@ -53,6 +54,7 @@ App
 * Write tests for multiple notes being created and displayed on the page
 * Read the [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress.html#) and write more test assertions beyond the methods demonstrated in lecture code
 * Write Enzyme tests for your `NoteUpdateForm` component
+* SCSS it up!
 
 #### Documentation  
 Write a description of the project in your README.md
